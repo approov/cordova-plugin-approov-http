@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attestation-heartbeats-enabled</key>
+	<false/>
+	<key>attestation-update-user-agents</key>
+	<false/>
+	<key>libraryID</key>
+	<string>1517348355147480364</string>
+	<key>attestation-url</key>
+	<string>https://demo.approovr.io</string>
+	<key>attestation-heartbeat</key>
+	<integer>300</integer>
+	<key>failover-url</key>
+	<string>https://approoved.com/token/demo/index.html</string>
+	<key>failover-heartbeat</key>
+	<integer>900</integer>
+</dict>
+</plist>

@@ -1,0 +1,10 @@
+repositories{
+    jcenter()
+    flatDir {
+        dirs 'src/main/lib'
+    }
+}
+
+dependencies {
+    implementation(name:'approov', ext:'aar')
+}

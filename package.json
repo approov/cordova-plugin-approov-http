@@ -1,0 +1,14 @@
+{
+  "name": "cordova-plugin-approov-http",
+  "version": "1.0.0",
+  "description": "Cordova plugin using Approov API protection when communicating with HTTPS servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "approov"
+  ],
+  "author": "CriticalBlue",
+  "license": "Apache 2.0"
+}
