@@ -1,3 +1,4 @@
+> **IMPORTANT** This repository relates to Approov 1 which is **deprecated**. For up to date information about using Approov with Cordova please refer to [Approov Quickstart: Cordova](https://github.com/approov/quickstart-cordova-advancedhttp#approov-quickstart-cordova).
 
 Cordova Approov HTTP
 ====================
